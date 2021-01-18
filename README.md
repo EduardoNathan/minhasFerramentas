@@ -7,7 +7,7 @@
         - [Code Runner](#code-runner)
         - [Eva Theme](#eva-theme)
         - [Git Lens](#git-lens)
-        - [Markdown Preview Enchanced](#mark-down-preview-enchanced)
+        - [Markdown Preview Enchanced](#markdown-preview-enchanced)
         - [Material Icon Theme](material-icon-theme)
         - [Path Intellisense](#path-intellisense)
         - [SSH FS](#ssh-fs)
