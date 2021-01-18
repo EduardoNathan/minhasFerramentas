@@ -2,7 +2,7 @@
 - [Ferramentas Utilizadas](#ferramentas-utilizadas)
 - [Android Studio](#android-studio)<br/>
 - [Visual Studio](#visual-studio)<br/>
-    - [Extensões](#extensoes)
+    - [Extensões](#extensões)
         - [Bracket Pair Colorizer](#bracket-pair-colorizer)
         - [Code Runner](#code-runner)
         - [Eva Theme](#eva-theme)
@@ -17,7 +17,7 @@
 - [Android](#android)<br/>
 - [Markdown](#markdown)<br/>
 
-#Ferramentas utilizadas
+# Ferramentas Utilizadas
 
 Segue abaixo a descrição das principais ferramentas que serão utilizadas durante todo o processo de treinamento para **Trainee Android**, na **Foursys**
 
@@ -117,7 +117,7 @@ O Git é um software livre, distribuído sob os termos da versão 2 da GNU Gener
 
 Clique [GIT](https://git-scm.com/) 
 
-##Git Hub
+## Git Hub
 <img src="https://user-images.githubusercontent.com/77402918/104950747-ffba3e80-599f-11eb-88c9-7df2a785c37c.png" width="150px">
 <br />
 
