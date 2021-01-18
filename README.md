@@ -76,6 +76,7 @@ Git Lens sobrecarrega os recursos do Git integrados ao Visual Studio Code. Ele a
 Clique [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 #### Markdown Preview Enchanced
+<img src="https://user-images.githubusercontent.com/77402918/104949673-1a8bb380-599e-11eb-973d-9fa7435c1bfc.png" width="150px">
 
 Markdown Preview Enchanced é uma extensão que fornece muitas funcionalidades úteis, como sincronização automática de rolagem, composição matemática, sereia, PlantUML, pandoc, exportação de PDF, bloco de código, redator de apresentação, etc. Muitas de suas ideias são inspiradas no Markdown Preview Plus e RStudio Markdown. 
 Sinta-se à vontade para fazer perguntas, postar problemas, enviar solicitação de pull e solicitar novos recursos.
