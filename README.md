@@ -92,7 +92,7 @@ Baseado e dependente da popular extensão Material Icon Theme para Visual Studio
 
 Clique [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-#### Path Itenllisense
+#### Path Intellisense
 <img src="https://user-images.githubusercontent.com/77402918/104949891-735b4c00-599e-11eb-9b31-1c9e69f6b5d3.png" width="150px">
 
 Elimine a troca de contexto e distrações caras. Crie e mescle PRs e execute revisões de código de dentro de seu IDE enquanto usa jump-to-definition, seus atalhos de teclado favoritos e outras ferramentas IDE.
