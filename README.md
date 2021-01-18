@@ -157,4 +157,4 @@ Markdown é uma linguagem simples de marcação originalmente criada por John Gr
 
 Clique [Markdown](https://daringfireball.net/projects/markdown/)
 
-_**Create by Eduardo Nathan in a collab with Michael Carlos Knopacki**_
+_**Created by Eduardo Nathan in a collab with Michael Carlos Knopacki**_
